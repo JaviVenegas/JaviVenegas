@@ -24,6 +24,10 @@ English: Fluent, with over 11 years of experience
 
 www.linkedin.com/in/javieravenegascastillo
 
+or
+
+javieravenegas_arch@gmail.com
+
 <!--
 **JaviVenegas/JaviVenegas** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
 
